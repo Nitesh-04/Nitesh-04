@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a web developer<br>👯 I'm open to collaborations and always eager to contribute to exciting projects.<br>🌱 I’m currently learning React.js and Next.js<br>⚡ I'm looking to explore the world of AI & ML
+🔭 I’m currently a web developer<br>👯 I'm open to collaborations and always eager to contribute to exciting projects.<br>🌱 I’m currently learning and Next.js<br>⚡ I'm looking to explore the world of AI & ML
 
 
 ## 🌐 Socials:

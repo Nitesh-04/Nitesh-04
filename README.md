@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&repeat=false&width=435&lines=Hi%2C+I'm+Nitesh+Kakkar)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I’m currently a web developer<br>👯 I'm open to collaborations and always eager to contribute to exciting projects.<br>🌱 I’m currently learning Next.js<br>⚡ I'm looking to explore the world of AI & ML
 

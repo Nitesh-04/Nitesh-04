@@ -23,7 +23,6 @@ const sayAboutMe = {
 console.log(sayAboutMe);
 ```
 <br>
-<br>
 
 <h2> 💻 Tech Stack </h2>
 
@@ -43,7 +42,7 @@ console.log(sayAboutMe);
 <br>
 
 <h2> ✉️ Contact Me</h2>
-<p align="">
+<p align="center">
   <a href="mailto:kakkar.nitesh04@gmail.com"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" alt="mail" width="48" height="48"/></a>
   <a href="https://www.linkedin.com/in/nitesh-kakkar"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="linkedin" width="48" height="48"/></a>
 </p>

@@ -32,6 +32,7 @@ console.log(sayAboutMe);
 <br>
 <h2> 📊 GitHub Stats</h2>
 
+<br>
 
 <br><p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Nitesh-04&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -40,6 +41,8 @@ console.log(sayAboutMe);
 </p>
 
 <br>
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-04&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2> ✉️ Contact Me</h2>
 <p align="center">

@@ -42,7 +42,6 @@ console.log(sayAboutMe);
 
 <br>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-04&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2> ✉️ Contact Me</h2>
 <p align="center">

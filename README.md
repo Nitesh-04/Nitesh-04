@@ -14,7 +14,7 @@ const sayAboutMe = {
         graduationYear: 2026
     },
     skills: {
-        languages: ["Python", "C", "C++", "Java", "HTML", "CSS", "JavaScript", "TypeScript", "SQL", "Go"],
+        languages: ["Python", "C", "C++", "Java", "HTML", "CSS", "JavaScript", "TypeScript", "SQL", "GoLang"],
         frameworks: ["ReactJS", "NextJS", "NodeJS", "ExpressJS", "TailwindCSS", "Redis", "Prisma ORM", "Diaglogflow"],
         databases: ["MySQL", "PostgreSQL", "SQLite", "Supabase", "CockroachDB"
         tools: ["Git", "Github", "Postman", "Docker", "Cron Jobs"]

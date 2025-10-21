@@ -1,5 +1,5 @@
 <br><p align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&text=Hello!&height=200&animation=fadeIn&fontSize=75)
+[![An image of @nitesh04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitesh04)](https://holopin.io/@nitesh04)
 </p>
 <br>
 <h2> 🚀 About Me</h2>
